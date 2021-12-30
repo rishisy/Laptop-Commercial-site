@@ -10,7 +10,7 @@ This is a HTML Website which focuses on e-commerce and Showcase of Laptops.
 A list of technologies used within the project:
 * [HTML](https://html.com/): Version 5 
 * [CSS](https://html.com/css/): Version 5.3
-* 
+* [Flex]
 
 ## Installation
 ***
