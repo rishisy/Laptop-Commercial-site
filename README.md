@@ -3,7 +3,7 @@
 ***
 This is a HTML Website which focuses on e-commerce and Showcase of Laptops.
 ### Screenshot
-![ScreenShot](/Screen Shot 2021-12-30 at 7.29.39 PM.png)
+![ScreenShot](https://github.com/rishisy/Laptop-Commercial/blob/main/Screen%20Shot%202021-12-30%20at%207.29.39%20PM.png)
 
 ## Technologies
 ***
